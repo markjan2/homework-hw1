@@ -1,2 +1,9 @@
 # homework-hw1
-[HW][A] simple tun
+
+Usage: 
+  1. make 
+  2. run ./simpletun as server
+  3. run ./simpletun -i <ifacename> [-c <serverIP>] [-w <password>] as client
+
+Hint: 
+  password file will be set at /home/jeter.jen/server/passwords
