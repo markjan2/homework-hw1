@@ -6,4 +6,4 @@ Usage:
   3. run ./simpletun -i <ifacename> [-c <serverIP>] [-w <password>] as client
 
 Hint: 
-  password file will be set at /home/jeter.jen/server/passwords
+  password file will be set at "passwords" file
