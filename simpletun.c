@@ -14,7 +14,7 @@
 #include <net/if.h>
 #include <linux/if_tun.h>
 
-#define PASSWORD_FILE "/home/jeter.jen/server/passwords"
+#define PASSWORD_FILE "passwords"
 #define TUN_PATH	  "/dev/net/tun"
 #define S_OK          true
 #define S_FAIL        false
